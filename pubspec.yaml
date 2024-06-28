@@ -16,7 +16,7 @@ dependencies:
   firebase_storage: ^12.1.0
   flutter:
     sdk: flutter
-  image_picker: ^1.1.2
+  image_picker: ^1.0.8
   ionicons: ^0.2.2
   stacked: ^3.4.3
   url_launcher: ^6.1.11
